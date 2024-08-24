@@ -1,0 +1,12 @@
+class string:
+- should take the sring
+- convert it to substring 
+- returns vector
+
+class substring:
+- takes the vector
+- checks for palindrome
+- display the palindrome and the index
+
+ext:
+take in input from a txt file, read and use
